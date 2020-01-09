@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Online Cube Vging is an online interface
+**Online Cube Vging** is an online interface to control a bunch of cube with your keyboard. It's very use full to do Vging.
 
 ## Project setup
 ```
@@ -25,13 +25,13 @@ npm run build
 LETTER (+ AXE) + VALUE + ENTER
 ```
 
-The LETTER #correspond# to the *parameter* you want _to_ modify.
+The **LETTER** correspond to the parameter you want to modify.
 
-You select an AXE X, Y or Z (not in every command, default is X).
+You select an **AXE** X, Y or Z (not in every command, default is X).
 
-The VALUE is a number you can choose with your numeric pad.
+The **VALUE** is a number you can choose with your numeric pad.
 
-And then press ENTER to apply.
+And then press **ENTER** to apply.
 
 ### Keys
 P position movement of the cubes
