@@ -4,6 +4,13 @@
 
 **Online Cube Vging** is an online interface to control a bunch of cube with your keyboard. It's very use full to do Vging.
 
+### Techo
+
+**VueJs** to organize the front
+**Stylus** for the style
+**Threejs** to control the 3D canvas
+**Gsap** to animate the front
+
 ## Project setup
 ```
 npm install
@@ -33,20 +40,20 @@ The **VALUE** is a number you can choose with your numeric pad.
 
 And then press **ENTER** to apply.
 
-### Keys
+### Keys
 
-P position movement of the cubes
+**P** position movement of the cubes
 
-R rotation speed of the cubes
+**R** rotation speed of the cubes
 
-S dimentions of the -cubes- (Scale)
+**S** dimentions of the -cubes- (Scale)
 
-A amplitude of the position movement
+**A** amplitude of the position movement
 
-C color intensity
+**C** color intensity
 
-M organisation mode -1- Wall (default) -2- Ground -3- Tunnel
+**M** organisation mode -1- Wall (default) -2- Ground -3- Tunnel
 
-T time scale (example : 0.1 slow | 1 normal | 2 fast)
+**T** time scale (example : 0.1 slow | 1 normal | 2 fast)
 
-I set all the parameters to theirs initial values
+**I** set all the parameters to theirs initial values
