@@ -7,8 +7,11 @@
 ### Techo
 
 **VueJs** to organize the front
+
 **Stylus** for the style
+
 **Threejs** to control the 3D canvas
+
 **Gsap** to animate the front
 
 ## Project setup
