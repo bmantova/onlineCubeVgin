@@ -25,7 +25,7 @@ npm run build
 LETTER (+ AXE) + VALUE + ENTER
 ```
 
-The LETTER correspond to the parameter you want to modify.
+The LETTER #correspond# to the *parameter* you want _to_ modify.
 
 You select an AXE X, Y or Z (not in every command, default is X).
 
