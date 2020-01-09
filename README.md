@@ -34,6 +34,7 @@ The **VALUE** is a number you can choose with your numeric pad.
 And then press **ENTER** to apply.
 
 ### Keys
+
 P position movement of the cubes
 
 R rotation speed of the cubes
